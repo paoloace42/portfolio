@@ -8,8 +8,8 @@
 </head>
 <body>
   <header>
-    <h1>Hello, I'm [Your Name]</h1>
-    <p>Welcome to my portfolio!</p>
+    <h1>Hello, I'm Ace</h1>
+    <p>Welcome to my Portfolio!</p>
   </header>
 
   <section>
@@ -23,7 +23,7 @@
   </section>
 
   <footer>
-    <p>© 2025 Your Name</p>
+    <p>© 2025 Ace</p>
   </footer>
 </body>
 </html>
