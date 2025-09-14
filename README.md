@@ -1,4 +1,4 @@
-# portfolio <!DOCTYPE html>
+# portfolio 
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -24,6 +24,6 @@
 
   <footer>
     <p>© 2025 Ace</p>
-  </footer>
+ ace </footer>
 </body>
 </html>
